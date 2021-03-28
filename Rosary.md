@@ -67,22 +67,21 @@ _Liturgy of hours were used in 12 century by priest to recite Psalms(**Note**:Co
  **LUMINOUS** - instituted by Pope John Paul II in 2002.
 
 ![GitHub Logo](/Rosary.jpg)
-Format: ![Alt Text](url)
 
 
-####Our Father:
+#### Our Father:
 
 Our Father, Who art in heaven, hallowed be Thy name; Thy kingdom comes; Thy will be done on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.
 
-####Hail Mary:
+#### Hail Mary:
 
 Hail Mary, full of grace. The Lord is with thee. Blessed art thou among women and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.
  
-####Glory Be:
+#### Glory Be:
 
 Glory be to the Father, to the Son, and to the Holy Spirit, as it was, is now, and ever shall be, world without end. Amen.
 
-###Questions
+### Questions
 1. Is it a sin to wear a rosary?
 2. Can anyone pray the rosary?
 3. Can I wear a rosary if I not Catholic?
