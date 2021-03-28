@@ -3,7 +3,7 @@
 
 pattern of prayers, repeating scriptures
 Decade= 10 hail Mary's
-####Prayer used
+#### Prayer used
 > 
 > 1. Our father
  > 1. Hail Mary 10 times
@@ -17,7 +17,7 @@ _**Source of word: Rosarium (Latin)**_
 
 _Liturgy of hours were used in 12 century by priest to recite Psalms(**Note**:Collect additional detils)_
 
-###Major historic events because of rosary
+### Major historic events because of rosary
 * Fathima Portugal -->Sprit of rivolt
 * Convergence, Penance and Prayer was emphasized by Mother Mary
 
@@ -29,7 +29,7 @@ Planary indulgence
 1. Include a prayer for the pope
 1. Receive the sacraments of eucharist and reconciliation
 
-##_How to pray Roasary_
+## _How to pray Roasary_
 
 1. Make the Sign of the Cross and say the “Apostles’ Creed”
 1. Say the “Our Father”
@@ -44,12 +44,13 @@ Planary indulgence
 
 
 
-Monday     JOYFUL
-Tuesday    SORROWFUL
-Wednesday  GLORIOUS
-Thursday   LUMINOUS
-Friday     SORROWFUL
-Saturday   JOYFUL
-Sundays of Advent and Christmas JOYFUL
-Sundays of Lent SORROWFUL
-Other Sundays GLORIOUS
+>1. Monday     JOYFUL
+>1. Tuesday    SORROWFUL
+>1. Wednesday  GLORIOUS
+>1. Thursday   LUMINOUS
+>1. Friday     SORROWFUL
+>1. Saturday   JOYFUL
+>1. Sunday
+>   1. Sundays of Advent and Christmas JOYFUL
+>   1. Sundays of Lent SORROWFUL
+>   1. Other Sundays GLORIOUS
