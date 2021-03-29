@@ -28,7 +28,7 @@ _Liturgy of hours were used in 12 century by priest to recite Psalms(**Note**:Co
 * Convergence, Penance and Prayer was emphasized by Mother Mary
 
 
-####Planary indulgence
+#### Planary Indulgence
 1. Pray rosary together
 1. Include a prayer for the pope
 1. Receive the sacraments of eucharist and reconciliation
@@ -67,6 +67,7 @@ _Liturgy of hours were used in 12 century by priest to recite Psalms(**Note**:Co
  **LUMINOUS** - instituted by Pope John Paul II in 2002.
 
 ![GitHub Logo](/Rosary.jpg)
+![GitHub Logo](/smallRosary.jpg)
 
 
 #### Our Father:
