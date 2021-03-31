@@ -4,7 +4,7 @@ Collecting all resources**
 Inprogress:
  1. [link to Rosary](/Rosary.md)
  1. [link to Scapular](/Scapular.md)
- 1. [link to Prayer](/Prayer.md)
+ 1. [link to Prayer](/Prayers.md)
  1. [link to Indulgence](/Indulgence.md)
  1. [link to Angels](/Angels.md)
  
