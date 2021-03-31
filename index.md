@@ -238,3 +238,10 @@ Our Father, 10 Hail Marys (contemplating the mystery), Glory be to the Father.
 5. Can I pray lying down?
 6. How do you hold a rosary?
 7. Is Rosary a prayer?
+
+
+### 7 FACTS ABOUT ROSARY
+* You become less selfish - it helps to reoriant to christ
+* You become more disciplined - More focused and  on Christ
+* Our Lady reveals insights -
+
