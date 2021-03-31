@@ -1,14 +1,19 @@
 # CatholicResources
 Collecting all resources**
+
 Inprogress:
--Rosary 
- [link to Rosary!](/rosary.md)
+ 1. [link to Rosary](/rosary.md)
+ 1. [link to Scapular](/Scapular.md)
+ 1. [link to Prayer](/Prayer.md)
+ 1. [link to Indulgence](/Indulgence.md)
+ 1. [link to Angels](/Angels.md)
+ 
 
 Notes: To start
-Liturgy of hours
-Gifts of holysprit
-Structre of holy mass
-Stages of heaven
-Prayer
-Holysprit
-Sins
+1. Liturgy of hours
+1. Gifts of holysprit
+1. Structre of holy mass
+1. Stages of heaven
+1. Prayer
+1. Holysprit
+1. Sins
