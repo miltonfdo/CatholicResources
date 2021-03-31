@@ -8,6 +8,24 @@ Pattern of prayers, repeating scriptures
 ### Purpose :
 The purpose of the Rosary is to help keep in memory certain principal events or mysteries in history.There are twenty mysteries reflected upon in the Rosary, and these are divided into five main mysteries which correspond to the five decades of the rosary. JOYFUL,SORROWFUL,GLORIOUS, LUMINOUS
 
+#### Promise of Rosary
+1. Whoever shall faithfully serve me by the recitation of the Rosary, shall receive signal graces.
+2. I promise my special protection and the greatest graces to all those who shall recite the Rosary.
+3. The Rosary shall be a powerful armor against hell, it will destroy vice, decrease sin, and defeat heresies.
+4. The Rosary will cause virtue and good works to flourish; it will obtain for souls the abundant mercy of God; it will withdraw the hearts of men from the love of the world and its vanities, and will lift them to the desire for eternal things. Oh, that souls would sanctify themselves by this means.
+5. The soul which recommends itself to me by the recitation of the Rosary, shall not perish.
+6. Whoever shall recite the Rosary devoutly, applying himself to the consideration of its sacred mysteries shall never be conquered by misfortune. God will not chastise him in His justice, he shall not perish by an unprovided death; if he be just he shall remain in the grace of God, and become worthy of eternal life.
+7. Whoever shall have a true devotion for the Rosary shall not die without the sacraments of the Church.
+8. Those who are faithful to recite the Rosary shall have during their life and at their death the light of God and the plenititude of His graces; at the moment of death they shall participate in the merits of the saints in paradise.
+9. I shall deliver from Purgatory those who have been devoted to the Rosary.
+10. The faithful children of the Rosary shall merit a high degree of glory in Heaven.
+11. You shall obtain all you ask of me by the recitation of the Rosary.
+12. All those who propagate the Holy Rosary shall be aided by me in their necessities.
+13. I have obtained from my Divine Son that all the advocates of the Rosary shall have for intercessors the entire celestial court during their life and at the hour of death.
+14. All who recite the Rosary are my sons and daughters, and brothers and sisters of my only Son Jesus Christ.
+15. Devotion of my Rosary is a great sign of predestination.
+Source:https://catholic-link.org/images/infographic-the-15-promises-of-the-rosary/
+
 Decade = 10 hail Mary's
 #### Prayer used
 
@@ -241,7 +259,11 @@ Our Father, 10 Hail Marys (contemplating the mystery), Glory be to the Father.
 
 
 ### 7 FACTS ABOUT ROSARY
-* You become less selfish - it helps to reoriant to christ
-* You become more disciplined - More focused and  on Christ
-* Our Lady reveals insights -
+1. You become less selfish - it helps to reoriant to christ
+1. You become more disciplined - More focused and  on Christ
+1. Our Lady reveals insights 
+1. You have more courage
+1. Your day preceds calmly
+1. You get extra awarness before moment of temptation(one of the 15 promises of Rosary)
+1. You start to live out incarnation
 
